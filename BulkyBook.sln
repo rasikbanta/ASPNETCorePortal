@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyBook", "BulkyBook\BulkyBook.csproj", "{038242AC-F70B-4E80-A965-A6F20F3F807D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyBook", "BulkyBook\BulkyBook.csproj", "{906812D3-642B-474A-B496-92BA6E409286}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +9,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{038242AC-F70B-4E80-A965-A6F20F3F807D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{038242AC-F70B-4E80-A965-A6F20F3F807D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{038242AC-F70B-4E80-A965-A6F20F3F807D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{038242AC-F70B-4E80-A965-A6F20F3F807D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{906812D3-642B-474A-B496-92BA6E409286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906812D3-642B-474A-B496-92BA6E409286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906812D3-642B-474A-B496-92BA6E409286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906812D3-642B-474A-B496-92BA6E409286}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
