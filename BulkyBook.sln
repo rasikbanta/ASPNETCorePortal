@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyBook", "BulkyBook\BulkyBook.csproj", "{906812D3-642B-474A-B496-92BA6E409286}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyBook.DataAccess", "BulkyBook.DataAccess\BulkyBook.DataAccess.csproj", "{95BB8A4E-53F8-4DD7-BB25-31276FC61468}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyBook.DataModels", "BulkyBook.DataModels\BulkyBook.DataModels.csproj", "{66B20BD2-468D-4C9D-A4F5-296AD061C130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyBook.Utility", "BulkyBook.Utility\BulkyBook.Utility.csproj", "{15F604EB-BA32-4BB6-9443-E48CD8B3D546}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +19,17 @@ Global
 		{906812D3-642B-474A-B496-92BA6E409286}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{906812D3-642B-474A-B496-92BA6E409286}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{906812D3-642B-474A-B496-92BA6E409286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95BB8A4E-53F8-4DD7-BB25-31276FC61468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95BB8A4E-53F8-4DD7-BB25-31276FC61468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95BB8A4E-53F8-4DD7-BB25-31276FC61468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95BB8A4E-53F8-4DD7-BB25-31276FC61468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66B20BD2-468D-4C9D-A4F5-296AD061C130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B20BD2-468D-4C9D-A4F5-296AD061C130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B20BD2-468D-4C9D-A4F5-296AD061C130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B20BD2-468D-4C9D-A4F5-296AD061C130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F604EB-BA32-4BB6-9443-E48CD8B3D546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F604EB-BA32-4BB6-9443-E48CD8B3D546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F604EB-BA32-4BB6-9443-E48CD8B3D546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F604EB-BA32-4BB6-9443-E48CD8B3D546}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
